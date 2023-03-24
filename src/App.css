@@ -1,0 +1,26 @@
+.app{
+  background-color: bisque;
+  height: 100vh;
+text-align: center;
+padding-top: 80px;
+font-size: 20px;
+
+}
+h1{ 
+  color:black
+}
+button{ 
+  padding: 20px; 
+  font-size: 35px;
+}
+input{
+  display: flex;
+ flex-direction:row-reverse;
+ margin-left: 600px;
+ margin-top: 20px;
+
+}
+.btn{ 
+  padding: 10px;
+  font-size: 20px;
+}
